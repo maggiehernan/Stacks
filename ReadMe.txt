@@ -41,9 +41,6 @@ Reflection:
                      Caused by: java.lang.ClassNotFoundException: DiceHistogram
     --Had to run in the terminal every time, which was just kind of tedious, but not horrible.
 
-I Worked With:
-==============
-N/A
 
 Approximate Hours worked:
 =========================
@@ -57,8 +54,4 @@ Special Instructions to the grader:
 Known Bugs or Limitations:
 ==========================
     --Wasn't quite sure if I did the number of runs for the Dice roll correctly.
-
-20 plays of 26 sided dice:
-==========================
-    Output: 2 1 1 1 1 1 2 1 1 1 2 1 2
 
